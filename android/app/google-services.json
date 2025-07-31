@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "495605261608",
+    "firebase_url": "https://piimaquiz-default-rtdb.firebaseio.com",
+    "project_id": "piimaquiz",
+    "storage_bucket": "piimaquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495605261608:android:23fd184556f7b788645c1d",
+        "android_client_info": {
+          "package_name": "com.example.piima_quiz_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrtsJ12j8Mmi1-cC5sKnTwaJTBW6OvE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495605261608:android:8addcbc4fd5b0ab3645c1d",
+        "android_client_info": {
+          "package_name": "com.example.pima_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrtsJ12j8Mmi1-cC5sKnTwaJTBW6OvE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
